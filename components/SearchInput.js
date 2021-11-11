@@ -20,7 +20,7 @@ import React from 'react';
     this.setState({ text: '' });
     };
     
-render() {
+        render() {
   const { placeholder } = this.props;
   const { text } = this.state;
   return (
