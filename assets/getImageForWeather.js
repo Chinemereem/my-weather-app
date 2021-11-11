@@ -11,11 +11,7 @@
    Sleet: require('../assets/sleet.png'),
    Snow: require('../assets/snow.png'),
    Thunder: require('../assets/thunder.png'),
+   
 };
  export default myWeatherApp => images[myWeatherApp];
-// const Clear = require('./clear.png');
-// const Hail = require('./hail.png');
-// export {
-//   Clear,
-//   Hail,
-// }
+

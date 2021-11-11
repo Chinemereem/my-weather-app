@@ -97,7 +97,7 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
     container: {
     flex: 1,
-    backgroundColor: '#34495E',
+    backgroundColor: '#0B1721',
     },
     imageContainer: {
     flex: 1,
